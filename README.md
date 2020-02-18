@@ -3,6 +3,11 @@
   <li><a href="https://www.geeksforgeeks.org/difference-between-web-server-and-application-server/">Difference Between Web server and Application server</a></li>
 </ul> 
 
-## 1. Refrences
+
+## 2. Refrences
 <ul>
-  <li><a href="https://www.mulesoft.com/tcat/tomcat-catalina">An introduction to Tomcat Catalina</a></li>
+  <li>a<a href="https://knowm.org/set-tomcats-default-locale/">Set Tomcat’s Default Locale</a></li>
+</ul>
+
+
+## 3. Tomcat Manager Application
