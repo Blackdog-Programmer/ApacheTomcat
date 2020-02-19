@@ -53,7 +53,7 @@
 
 <h4>Enabling SSL: server.xml</h4>
 <kbd>
-  <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/SSL/enable_ssl.png" alt="enabling SSL">
+  <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/SSL/enable_ssl_config.png" alt="enabling SSL">
 </kbd>
 
 <h4>Make Confidential on Tomcat App Manager</h4>
