@@ -42,7 +42,7 @@
 
 ### 5-1. Enabling SSL
 <ul>
-  <li><a href="https://www.digicert.com/ssl/">What is SSL(Secure Socket Layer</a></li>
+  <li><a href="https://www.digicert.com/ssl/">What is SSL(Secure Socket Layer)</a></li>
 </ul>
 
 <h4>SSL Key Geneartion: keytool.exe</h4>
