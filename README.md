@@ -98,3 +98,6 @@
 </kbd>
 
 ## 6-1. Load Balancer using Negix - Windows Platform
+<ul>
+  <li><a href="http://nginx.org/en/docs/windows.html">nginx for Windows</a></li>
+</ul>
