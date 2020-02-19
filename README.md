@@ -22,7 +22,7 @@
 
 <a href="https://tomcat.apache.org/tomcat-9.0-doc/api/org/apache/coyote/package-summary.html">Coyote (Apache Tomcat 9.0.30 API Documentation></a>
 <kbd>
-  <img src=https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/overview/coyote_overview.png"" alt="Coyote">
+  <img src=https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/overview/coyote_overview.png" alt="Coyote">
 </kbd>
 
 <a href="https://tomcat.apache.org/tomcat-9.0-doc/config/cluster.html">Apache Tomcat 9 Cluster</a>
