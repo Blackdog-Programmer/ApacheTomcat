@@ -101,3 +101,6 @@
 <ul>
   <li><a href="http://nginx.org/en/docs/windows.html">nginx for Windows</a></li>
 </ul>
+
+<h4>Negix Load Balancing Infor graphics</h4>
+<img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/Clustering/load_blancer.png" alt="Ngnix Load Balancing">
