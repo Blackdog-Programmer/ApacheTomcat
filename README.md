@@ -21,7 +21,14 @@
 </kbd>
 
 <kbd>
-<img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/application_manager/app_manager.png" alt="Tomcat App Manager Section">
+  <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/application_manager/app_manager.png" alt="Tomcat App Manager Section">
 </kbd>
 
 ## 4. Configuration files and binaries walk through
+<kbd>
+  <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/configuration_files_and_binaries/configuration_files.png" alt="configuration files tomcat">
+</kbd>
+
+<kbd>
+  <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/configuration_files_and_binaries/library_files.png" alt="library files">
+</kbd>
