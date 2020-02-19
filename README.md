@@ -108,6 +108,15 @@
 <h4>Negix Load Balancing Infor graphics</h4>
 <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/Clustering/load_blancer.png" alt="Ngnix Load Balancing">
 
+<h4>Nginix Load Balancing Configuration: ngix-1.16.1/conf/nginx.conf file</h4> 
+<kbd>
+  <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/Clustering/nginx_tomcat_server_config_location.png" alt="negix server configuration">
+</kbd>
+
+<kbd>
+  <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/Clustering/nginx_tomcat_server_config_location.png" alt="negix server location configuration">
+</kbd>
+
 ## 6-2. Session Replication
 <ul>
   <li><a href="https://tomcat.apache.org/tomcat-9.0-doc/cluster-howto.html">Apache Tomcat Seesion Replication</a></li>
