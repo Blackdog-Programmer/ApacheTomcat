@@ -58,7 +58,7 @@
 
 <h4>Make Confidential on Tomcat App Manager</h4>
 <kbd>
-  <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/SSL/make_confidental_to_protect_app_manager.png" alt="make_confidental_to_protect_app_manager">
+  <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/SSL/make_confidental_protect_app_manager.png" alt="make_confidental_to_protect_app_manager">
 </kbd>
   
 ## 7. Virtual Host
