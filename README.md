@@ -48,7 +48,7 @@
 
 <h4>SSL Key Geneartion: keytool.exe(JDK)</h4>
 <kbd>
-  <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/SSL/ssl_key_generation.png" alt="SSL Key Generation">
+  <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/SSL/ssl_key_generation_jdk_keytool.png" alt="SSL Key Generation">
 </kbd>
 
 <h4>Enabling SSL</h4>
