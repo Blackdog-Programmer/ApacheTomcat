@@ -86,4 +86,5 @@
 ## 8. Clustering
 <ul>
   <li><a href="https://tomcat.apache.org/tomcat-9.0-doc/config/cluster.html">Cluster - Apache Tomcat - Apache Software</a></li>
+  <li><a href="https://svrtechnologies.com/what-is-horizontal-and-vertical-clustering/">Horizontal vs Vertical Clustering</a></li>
 </ul>
