@@ -96,3 +96,5 @@
 <kbd>
   <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/Clustering/verticla_cluster.png" alt="Vertical Clustering Image">
 </kbd>
+
+## 6-1. Load Balancer using Negix - Windows Platform
