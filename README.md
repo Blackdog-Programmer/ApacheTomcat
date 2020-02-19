@@ -23,3 +23,5 @@
 <kbd>
 <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/application_manager/app_manager.png" alt="Tomcat App Manager Section">
 </kbd>
+
+## 4. Configuration files and binaries walk through
