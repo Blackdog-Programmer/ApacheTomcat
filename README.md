@@ -88,3 +88,13 @@
   <li><a href="https://tomcat.apache.org/tomcat-9.0-doc/config/cluster.html">Cluster - Apache Tomcat - Apache Software</a></li>
   <li><a href="https://svrtechnologies.com/what-is-horizontal-and-vertical-clustering/">Horizontal vs Vertical Clustering</a></li>
 </ul>
+
+<h4>Horizontal Clustring Infographic</h4>
+<kbd>
+  <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/Clustering/horizontal_cluster.png" alt="Horizontal Clustering Image">
+</kbd>
+
+<h4>Verticsl Clustering Infographic</h4>
+<kbd>
+  <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/Clustering/verticla_cluster.png" alt="Vertical Clustering Image">
+</kbd>
