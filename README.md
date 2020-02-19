@@ -51,7 +51,7 @@
   <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/SSL/ssl_key_generation_jdk_keytool.png" alt="SSL Key Generation">
 </kbd>
 
-<h4>Enabling SSL</h4>
+<h4>Enabling SSL: server.xml</h4>
 <kbd>
   <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/SSL/enable_ssl.png" alt="enabling SSL">
 </kbd>
