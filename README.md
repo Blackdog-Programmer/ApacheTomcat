@@ -3,6 +3,8 @@
   <li><a href="https://www.geeksforgeeks.org/difference-between-web-server-and-application-server/">Difference Between Web server and Application server</a></li>
   <li><a href="https://knowm.org/set-tomcats-default-locale/">Set Tomcat’s Default Locale</a></li>
   <li><a href="https://www.baeldung.com/tomcat-utf-8">Making Tomcat UTF-8-Ready</a></li>
+  <li><a href="https://www.webopedia.com/quick_ref/portnumbers.asp">List of Well-Known Port Numbers</a></li>
+  <li><a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-deploy-a-JAR-file-to-Tomcat-the-right-way">How to deploy a JAR file to Tomcat the right way: By putting that JAR file inside ${catalina.base}/lib</a></li>
 </ul> 
 
 
@@ -84,6 +86,7 @@
 ## 6. Clustering
 <ul>
   <li><a href="https://tomcat.apache.org/tomcat-9.0-doc/config/cluster.html">Cluster - Apache Tomcat - Apache Software</a></li>
+  <li><a href="https://www.mulesoft.com/tcat/tomcat-clustering">Tomcat Clustering - A Step By Step Guide</a></li>
   <li><a href="https://svrtechnologies.com/what-is-horizontal-and-vertical-clustering/">Horizontal vs Vertical Clustering</a></li>
 </ul>
 
@@ -104,3 +107,13 @@
 
 <h4>Negix Load Balancing Infor graphics</h4>
 <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/Clustering/load_blancer.png" alt="Ngnix Load Balancing">
+
+## 6-2. Session Replication
+<ul>
+  <li><a href="https://tomcat.apache.org/tomcat-9.0-doc/cluster-howto.html">Apache Tomcat Seesion Replication</a></li>
+</ul>
+
+## 7. Tomcat Logging
+<ul>
+  <li><a href="https://tomcat.apache.org/tomcat-9.0-doc/logging.html">Apache Tomcat Logging</a></li>
+</ul>
