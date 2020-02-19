@@ -16,7 +16,7 @@
 
 <a href="https://tomcat.apache.org/tomcat-9.0-doc/api/org/apache/coyote/package-summary.html">Coyote (Apache Tomcat 9.0.30 API Documentation></a>
 
-<a hre="https://tomcat.apache.org/tomcat-9.0-doc/config/cluster.html">Apache Tomcat 9 Cluster</a>
+<a href="https://tomcat.apache.org/tomcat-9.0-doc/config/cluster.html">Apache Tomcat 9 Cluster</a>
 
 ## 2. Tomcat Manager Application
 <ul>
