@@ -1,17 +1,16 @@
-## 0. Articles
+## 0. References
 <ul>
   <li><a href="https://www.geeksforgeeks.org/difference-between-web-server-and-application-server/">Difference Between Web server and Application server</a></li>
+  <li><a href="https://knowm.org/set-tomcats-default-locale/">Set Tomcat’s Default Locale</a></li>
+  <li><a href="https://www.baeldung.com/tomcat-utf-8">Making Tomcat UTF-8-Ready</a></li>
+</
 </ul> 
 
 
-## 2. Refrences
-<ul>
-  <li><a href="https://knowm.org/set-tomcats-default-locale/">Set Tomcat’s Default Locale</a></li>
-  <li><a href="https://www.baeldung.com/tomcat-utf-8">Making Tomcat UTF-8-Ready</a></li>
-</ul>
+## 1. Overview
 
 
-## 3. Tomcat Manager Application
+## 2. Tomcat Manager Application
 <ul>
   <li><a href="https://tomcat.apache.org/tomcat-9.0-doc/manager-howto.html">Manager App How-To - Apache Tomcat 9 (9.0.31)</a></li>
 </ul>
@@ -26,7 +25,7 @@
 </kbd>
 
 
-## 4. Configuration files and binaries walk through
+## 3. Configuration files and binaries walk through
 <h4>Configuration Files: Tomcat 9.0\conf</h4>
 <kbd>
   <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/configuration_files_and_binaries/configuration_files.png" alt="configuration files tomcat">
@@ -38,12 +37,12 @@
 </kbd>
 
 
-## 5. Security
+## 4. Security
 <ul>
   <li><a href="https://tomcat.apache.org/tomcat-9.0-doc/security-howto.html">Security Considerations - Apache Tomcat 9</a></li>
 </ul>
 
-### 5-1. Enabling SSL
+### 4-1. Enabling SSL
 <ul>
   <li><a href="https://www.digicert.com/ssl/">What is SSL(Secure Socket Layer)</a></li>
 </ul>
@@ -64,7 +63,7 @@
 </kbd>
   
   
-## 7. Virtual Host
+## 5. Virtual Host
 <ul>
   <li><a href="https://tomcat.apache.org/tomcat-9.0-doc/virtual-hosting-howto.html">Virtual Hosting and Tomcat</a></li>
 </ul>
@@ -83,7 +82,7 @@
     <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/virtual_host/add_virtualhost_in_host_file.png" alt="host file configuation">
   </kbd>
 
-## 8. Clustering
+## 6. Clustering
 <ul>
   <li><a href="https://tomcat.apache.org/tomcat-9.0-doc/config/cluster.html">Cluster - Apache Tomcat - Apache Software</a></li>
   <li><a href="https://svrtechnologies.com/what-is-horizontal-and-vertical-clustering/">Horizontal vs Vertical Clustering</a></li>
