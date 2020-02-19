@@ -34,8 +34,14 @@
 </kbd>
 
 ## 5. Security
+<ul>
+  <li><a href="https://tomcat.apache.org/tomcat-9.0-doc/security-howto.html">Security Considerations - Apache Tomcat 9</a></li>
+</ul>
 
-## 6. Enabling SSL
+### 5-1. Enabling SSL
+<ul>
+  <li><a href="https://www.digicert.com/ssl/">What is SSL(Secure Socket Layer</a></li>
+</ul>
 
 ## 7. Virtual Host
 
