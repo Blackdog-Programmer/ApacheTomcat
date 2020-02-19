@@ -16,7 +16,7 @@
   <li><a href="https://tomcat.apache.org/tomcat-9.0-doc/manager-howto.html">Manager App How-To - Apache Tomcat 9 (9.0.31)</a></li>
 </ul>
 
-<h4>Configure App Manager and Roles: <strong>tomcat-users.xml</strong></h4>
+<h4>Configure App Manager and Roles: tomcat-users.xml</h4>
 <kbd>
   <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/application_manager/manaer_gui_configuration.png" alt="make and configure tomcat manage user and role">
 </kbd>
