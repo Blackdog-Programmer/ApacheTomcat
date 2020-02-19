@@ -30,7 +30,7 @@
   <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/configuration_files_and_binaries/configuration_files.png" alt="configuration files tomcat">
 </kbd>
 
-<h4>Library Feils: Tomcat 9.0\lib</h4>
+<h4>Library Files: Tomcat 9.0\lib</h4>
 <kbd>
   <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/configuration_files_and_binaries/library_files.png" alt="library files">
 </kbd>
