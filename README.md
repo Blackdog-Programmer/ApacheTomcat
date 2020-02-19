@@ -45,7 +45,7 @@
   <li><a href="https://www.digicert.com/ssl/">What is SSL(Secure Socket Layer</a></li>
 </ul>
 
-<h4>SSL Key Geneartion</h4>
+<h4>SSL Key Geneartion: keytool.exe</h4>
 <kbd>
   <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/SSL/ssl_key_generation.png" alt="SSL Key Generation">
 </kbd>
