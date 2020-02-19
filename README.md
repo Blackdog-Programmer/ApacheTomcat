@@ -116,4 +116,5 @@
 ## 7. Tomcat Logging
 <ul>
   <li><a href="https://tomcat.apache.org/tomcat-9.0-doc/logging.html">Apache Tomcat Logging</a></li>
+  <li><a href="https://www.oxxus.net/tutorials/tomcat/tomcat-valve">WHAT IS A TOMCAT VALVE? : It acts as interceptor to track the request before it reached container</a></li>
 </ul>
