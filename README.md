@@ -56,7 +56,7 @@
   <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/SSL/enable_ssl_configuration.png" alt="enabling SSL">
 </kbd>
 
-<h4>Make Confidential on Tomcat App Manager</h4>
+<h4>Make Confidential on Tomcat App Manager: web.xml</h4>
 <kbd>
   <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/SSL/make_confidental_protect_app_manager.png" alt="make_confidental_to_protect_app_manager">
 </kbd>
