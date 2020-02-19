@@ -25,6 +25,7 @@
   <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/application_manager/app_manager.png" alt="Tomcat App Manager Section">
 </kbd>
 
+
 ## 4. Configuration files and binaries walk through
 <h4>Configuration Files: Tomcat 9.0\conf</h4>
 <kbd>
@@ -35,6 +36,7 @@
 <kbd>
   <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/configuration_files_and_binaries/library_files.png" alt="library files">
 </kbd>
+
 
 ## 5. Security
 <ul>
@@ -61,6 +63,11 @@
   <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/SSL/make_confidental_protect_app_manager.png" alt="make_confidental_to_protect_app_manager">
 </kbd>
   
+  
 ## 7. Virtual Host
+<kbd>
+  <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/virtual_host/virtual_host_benefits.png" alt="Benefits of VirtualHost">
+</kbd>
+
 
 ## 8. Clustering
