@@ -73,5 +73,14 @@
   <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/virtual_host/virtual_host_benefits.png" alt="Benefits of VirtualHost">
 </kbd>
 
+<h4>Add Virtual Host Websites: server.xml</hr>
+  <kbd>
+    <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/virtual_host/add_virtual_host.png" alt="add virtual host website in server.xml files">
+  </kbd>
+
+<h4>Virtual Host Redirection: host file(C:\Windows\System32\drivers\etc)</hr>
+  <kbd>
+    <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/virtual_host/add_virtualhost_in_host_file.png" alt="host file configuation">
+  </kbd>
 
 ## 8. Clustering
