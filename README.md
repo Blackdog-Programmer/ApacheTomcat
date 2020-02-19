@@ -32,3 +32,11 @@
 <kbd>
   <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/configuration_files_and_binaries/library_files.png" alt="library files">
 </kbd>
+
+## 5. Security
+
+## 6. Enabling SSL
+
+## 7. Virtual Host
+
+## 8. Clustering
