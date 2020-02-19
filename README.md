@@ -1,13 +1,13 @@
 ## 0. Articles
 <ul>
   <li><a href="https://www.geeksforgeeks.org/difference-between-web-server-and-application-server/">Difference Between Web server and Application server</a></li>
-  <li><a href="https://www.baeldung.com/tomcat-utf-8">Making Tomcat UTF-8-Ready</a></li>
 </ul> 
 
 
 ## 2. Refrences
 <ul>
   <li><a href="https://knowm.org/set-tomcats-default-locale/">Set Tomcat’s Default Locale</a></li>
+  <li><a href="https://www.baeldung.com/tomcat-utf-8">Making Tomcat UTF-8-Ready</a></li>
 </ul>
 
 
@@ -46,7 +46,7 @@
   <li><a href="https://www.digicert.com/ssl/">What is SSL(Secure Socket Layer)</a></li>
 </ul>
 
-<h4>SSL Key Geneartion: keytool.exe</h4>
+<h4>SSL Key Geneartion: keytool.exe(JDK)</h4>
 <kbd>
   <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/SSL/ssl_key_generation.png" alt="SSL Key Generation">
 </kbd>
