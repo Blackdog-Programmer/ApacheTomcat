@@ -65,6 +65,10 @@
   
   
 ## 7. Virtual Host
+<ul>
+  <li><a href="https://tomcat.apache.org/tomcat-9.0-doc/virtual-hosting-howto.html">Virtual Hosting and Tomcat</a></li>
+</ul>
+
 <kbd>
   <img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/virtual_host/virtual_host_benefits.png" alt="Benefits of VirtualHost">
 </kbd>
