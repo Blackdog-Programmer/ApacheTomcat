@@ -14,3 +14,5 @@
 <ul>
   <li><a href="https://tomcat.apache.org/tomcat-9.0-doc/manager-howto.html">Manager App How-To - Apache Tomcat 9 (9.0.31)</a></li>
 </ul>
+
+<img src="https://github.com/Blackdog-Programmer/ApacheTomcat-Bootstrap/blob/master/reference/application_manager/app_manager.png", alt="Tomcat App Manager Section">
